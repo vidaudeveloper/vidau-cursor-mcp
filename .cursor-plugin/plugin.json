@@ -1,0 +1,12 @@
+{
+  "name": "vidau",
+  "description": "Generate images and videos with your VidAU account.",
+  "version": "0.1.0",
+  "author": {
+    "name": "VidAU"
+  },
+  "homepage": "https://www.vidau.ai",
+  "repository": "https://github.com/vidaudeveloper/vidau-cursor-mcp",
+  "keywords": ["image", "video", "generation"],
+  "logo": "assets/logo.svg"
+}
